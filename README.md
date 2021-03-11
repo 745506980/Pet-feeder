@@ -20,6 +20,8 @@ For more information, please check Tuya Developer Website.
 
 4）每次喂食后，检测余粮重量，低于临界值，上报提示补充余粮。
 
+5）完成实时监控功能，可以用来观测宠物在家中的情况(目前已完成，基于手中的ITOP4412开发板+OV5640摄像头模组)
+
 
 # 三、开发计划
 
@@ -27,8 +29,7 @@ For more information, please check Tuya Developer Website.
 
 1）3月9日前完成需求分析，选定需要的模块。
 
-2）3月14日之前准备物料
-  涂鸦开发板、电机、温湿度传感器
+2）3月14日之前准备物料 涂鸦开发板、电机
 
 3）3月14-20日嵌入式开发、云开发
 
