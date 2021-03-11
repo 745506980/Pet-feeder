@@ -1,4 +1,4 @@
-This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.         
+This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.
 
 For more information, please check Tuya Developer Website.
 
@@ -10,30 +10,44 @@ For more information, please check Tuya Developer Website.
 
 在不知不觉中，身边已经充斥着各种智能设备，很多人都过上了智能生活，很多事几乎都不用亲力亲为，不仅人们的生活被智能设备占领，宠物市场也是如此，尤其是宠物智能喂食器已经成为家喻户晓的智能设备，如今也正是宠物智能喂食器飞速发展和技术更成熟的时候，宠物智能喂食器未来是我市场前景将不可估量。
 
-项目功能：
+# 应用场景：
+
+1) 养宠物的铲屎官家中；
+
+2) 宠物店中；
+
+3）宠物救助站
+
+
+
+# 项目功能：
 
 1）主人可以使用手机APP来设置喂食时间，喂食重量。
 
 2）当主人忘记喂食时，喂食器可以根据设定的时间进行喂食，或者向主人发送提示信息。
 
-3）实时监控环境温湿度，并进行上报。  
+3）实时监控环境温湿度，并进行上报。
 
-4）每次喂食后，检测余粮重量，低于临界值，上报提示补充余粮。
+4）用户可以在APP中查看余粮信息，每次喂食后，检测余粮重量，低于临界值，上报提示补充余粮。
 
 5）完成实时监控功能，可以用来观测宠物在家中的情况(目前已完成，基于手中的ITOP4412开发板+OV5640摄像头模组)
+
+6) 语音召唤宠物进食，通过录制特定的音频，在设置的时间点播放音频，从而诱导宠物进食；
+
+7) 在APP中设置喂食信息时，根据宠物体型的大小，来推荐喂食重量和次数；
+
 
 
 # 三、开发计划
 
-3月25前完成.
+4月15日前完成.
 
 1）3月9日前完成需求分析，选定需要的模块。
 
-2）3月14日之前准备物料 涂鸦开发板、电机
+2）3月14日之前准备物料 涂鸦三明治语音WIFI通信板、H桥直流电机驱动模块、直流电机。
 
-3）3月14-20日嵌入式开发、云开发
+3）3月14-24日 涂鸦开发环境学习
 
-4）3月26日前整体调试。
+4)  3月25日-4月9日 嵌入式开发、云开发
 
-
-
+4)  4月10日-4月15日 整体调试。
