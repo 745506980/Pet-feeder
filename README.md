@@ -12,6 +12,7 @@ For more information, please check Tuya Developer Website.
 
 #### 应用场景：
 
+
 1) 养宠物的铲屎官家中；
 
 2) 宠物店中；
@@ -21,6 +22,7 @@ For more information, please check Tuya Developer Website.
 
 
 #### 项目功能：
+
 
 1）主人可以使用手机APP来设置喂食时间，喂食重量。
 
@@ -40,6 +42,7 @@ For more information, please check Tuya Developer Website.
 
 # 三、开发计划
 
+
 4月15日前完成.
 
 1）3月9日前完成需求分析，选定需要的模块。
@@ -50,4 +53,4 @@ For more information, please check Tuya Developer Website.
 
 4)  3月25日-4月9日 嵌入式开发、云开发
 
-4)  4月10日-4月15日 整体调试。
+5)  4月10日-4月15日 整体调试。
